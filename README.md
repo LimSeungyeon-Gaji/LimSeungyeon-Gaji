@@ -1,4 +1,11 @@
 ## Hi there 👋
+Welcome to Gaji's Github!
+
+👌 ENG/KOR/JPN
+
+## 🔭 Tech list 
+
+ 
 
 <!--
 **LimSeungyeon-Gaji/LimSeungyeon-Gaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
